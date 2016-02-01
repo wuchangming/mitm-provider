@@ -1,0 +1,24 @@
+{
+  "name": "mitm-provider",
+  "version": "0.0.1",
+  "description": "build mitm proxy in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuchangming/mitm-provider.git"
+  },
+  "keywords": [
+    "mitm",
+    "proxy",
+    "node"
+  ],
+  "author": "wuchangming",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wuchangming/mitm-provider/issues"
+  },
+  "homepage": "https://github.com/wuchangming/mitm-provider#readme"
+}
